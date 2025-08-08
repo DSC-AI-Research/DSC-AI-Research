@@ -69,21 +69,14 @@ Closes #<issue-number>
 ---
 
 ## 6. Folder Layout
-/
+
 ├── notebooks/          # Exploratory work
-
 ├── src/
-
 │   ├── models/         # Model definitions
-
 │   ├── data/           # Data loaders / utils
-
 │   └── eval/           # Evaluation scripts
-
 ├── experiments/        # Reproducible scripts (Hydra / YAML configs)
-
 ├── docs/               # Markdown docs & figures
-
 └── tests/              # pytest unit tests
 
 ---
