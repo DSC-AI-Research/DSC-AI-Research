@@ -69,6 +69,7 @@ Closes #<issue-number>
 ---
 
 ## 6. Folder Layout
+```plaintext
 /
 ├── notebooks/          # Exploratory work
 ├── src/
@@ -79,7 +80,6 @@ Closes #<issue-number>
 ├── docs/               # Markdown docs & figures
 └── tests/              # pytest unit tests
 
----
 
 ## 7. Pull Request Template
 Copy-paste into your PR description:
