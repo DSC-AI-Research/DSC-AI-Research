@@ -69,7 +69,6 @@ Closes #<issue-number>
 ---
 
 ## 6. Folder Layout
-
 /
 ├── notebooks/          # Exploratory work
 ├── src/
@@ -79,8 +78,6 @@ Closes #<issue-number>
 ├── experiments/        # Reproducible scripts (Hydra / YAML configs)
 ├── docs/               # Markdown docs & figures
 └── tests/              # pytest unit tests
-
-
 ---
 
 ## 7. Pull Request Template
