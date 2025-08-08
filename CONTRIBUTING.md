@@ -69,6 +69,7 @@ Closes #<issue-number>
 ---
 
 ## 6. Folder Layout
+
 /
 ├── notebooks/          # Exploratory work
 ├── src/
@@ -78,6 +79,7 @@ Closes #<issue-number>
 ├── experiments/        # Reproducible scripts (Hydra / YAML configs)
 ├── docs/               # Markdown docs & figures
 └── tests/              # pytest unit tests
+
 
 ---
 
@@ -111,7 +113,7 @@ Link to issue or motivation.
 
 - **Discord:** `#contributing` channel → [https://discord.gg/u5y2Ms7m](https://discord.gg/u5y2Ms7m)  
 - **Weekly office hours:** Fridays 15:00–16:00 CST *(check Discord events)*  
-- **Email:** [dsc.ai.research@tec.mx](mailto:dsc.ai.research@tec.mx) *(for sensitive matters)*
+- **Email:** [A01665895@tec.mx](mailto:A01665895@tec.mx) *(for sensitive matters)*
 
 ---
 
