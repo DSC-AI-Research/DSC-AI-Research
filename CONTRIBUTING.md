@@ -79,7 +79,7 @@ Closes #<issue-number>
 ├── experiments/        # Reproducible scripts (Hydra / YAML configs)
 ├── docs/               # Markdown docs & figures
 └── tests/              # pytest unit tests
-
+```
 
 ## 7. Pull Request Template
 Copy-paste into your PR description:
