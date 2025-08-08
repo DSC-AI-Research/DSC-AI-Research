@@ -70,7 +70,6 @@ Closes #<issue-number>
 
 ## 6. Folder Layout
 /
-
 ├── notebooks/          # Exploratory work
 ├── src/
 │   ├── models/         # Model definitions
