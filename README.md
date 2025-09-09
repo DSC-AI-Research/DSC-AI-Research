@@ -2,7 +2,7 @@
 <!--  Banner (dark mode friendly) – auto-fits GitHub’s README width          -->
 <!--  Generated with: https://capsule-render.vercel.app                      -->
 <!-- ===================================================================== -->
-![DSC AI Research Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=220&section=header&text=DSC%20AI%20Research%20Division&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Tecnológico%20de%20Monterrey&descAlignY=70&descAlign=62)
+![DSC AI Research Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=220&section=header&text=DSC%20AI%20Research%20Division&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=From%20Tecnológico%20de%20Monterrey&descAlignY=70&descAlign=62)
 
 <!-- Centered subtitle -->
 <p align="center">
